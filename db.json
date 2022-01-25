@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 10
+    },
+    {
+      "name1": "ooooo",
+      "price": "3",
+      "type": "eeeeeee",
+      "brand": "tttttttt",
+      "id": 11
+    },
+    {
+      "name1": "paul",
+      "price": "15",
+      "type": "Human",
+      "brand": "Atreides",
+      "id": 12
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 13
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 14
+    },
+    {
+      "name1": "okkk",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 15
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 16
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 17
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 18
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 19
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 20
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 21
+    },
+    {
+      "name1": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 22
+    },
+    {
+      "name1": "https://www.proquest.com/docview/229615504?OpenUrlRefId=info:xri/sid:primo&accountid=15181",
+      "price": 0,
+      "type": "Dummy type",
+      "brand": "Dummy brand",
+      "id": 23
+    }
+  ]
+}

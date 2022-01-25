@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\pomodoro"
+	}
+],
+  "settings": {
+    "editor.tabSize": 7
+  }
+}
